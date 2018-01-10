@@ -14,6 +14,8 @@ namespace StorageQueueCoreSample
     /// I added a Connected Service to my project according to the direction. 
     /// https://github.com/aspnet/Docs/tree/master/aspnetcore/fundamentals/configuration/index/sample/ConfigJson
     /// Sample
+    /// https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?tabs=basicconfiguration
+    /// Configuration for .NET Core.
     /// </summary>
     class Program
     {
